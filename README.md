@@ -1,4 +1,4 @@
-## Hi there 👋
+##👋 Hi, I’m Oussama
 
 Robotics & Embedded Systems Engineer | Passionate about IoT, Automation, and Data-Driven Solutions
 
